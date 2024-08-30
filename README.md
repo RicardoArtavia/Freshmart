@@ -1,2 +1,2 @@
-# Proyecto_WebClienteServidor
-Proyecto Final del curso web cliente servidor
+# Freshmart
+Proyecto Final del curso Ambiente Web Cliente/Servidor
